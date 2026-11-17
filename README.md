@@ -20,7 +20,7 @@ I write in clear, simple, translation ready English - built for global users and
 - How-to guides
 - API documentation
 - Engineering guides
-- knowledgeable articles for customer support team
+- knowledgeable and Troubleshooting articles for customer support team
 - Conduct docathons
 - Prompt engineering
 - Docs for AI-readability
